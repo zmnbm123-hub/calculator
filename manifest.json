@@ -1,6 +1,7 @@
 {
   "name": "الحاسوب",
   "short_name": "حاسبة",
+  "description": "تطبيق آلة حاسبة متقدم وسريع للاستخدام اليومي",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0d1117",
